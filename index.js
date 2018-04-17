@@ -3,11 +3,11 @@ function add() {
 }
 
 function subtract() {
-  return a-= b
+  return a -= b
 }
 
 function multiply() {
-  return a*= b
+  return a *= b
 }
 
 function divide() {
