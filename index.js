@@ -26,3 +26,4 @@ function makeInt(n) {
   return (n)
 }
 
+makeInt(n) parseInt('n', 10)
