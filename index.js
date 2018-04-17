@@ -15,5 +15,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
+  var a = n
   a + 1
 }
